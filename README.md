@@ -1,7 +1,7 @@
 Wheelements
 ===========
 
-Entry for JS13K contest 2014
+<a href="http://js13kgames.com/entries/wheelements">Entry</a> for JS13K contest 2014
 
 How to play
 ===========
@@ -16,7 +16,7 @@ Use index-full.html to execute game without minify.
 
 Credits
 ===========
-MonsieurTweek<br/>
+<a href="https://github.com/MonsieurTweek">MonsieurTweek</a><br/>
 OnTheFlex
 
 <img src ="http://smile-engine.com/wheelements/wheel_of_power.jpg" width="480px" height="375px"/>
