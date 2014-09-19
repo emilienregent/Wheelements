@@ -17,6 +17,6 @@ Use index-full.html to execute game without minify.
 Credits
 ===========
 <a href="https://github.com/MonsieurTweek">MonsieurTweek</a><br/>
-OnTheFlex
+<a href="https://github.com/emilienregent">OnTheFlex</a>
 
 <img src ="http://smile-engine.com/wheelements/wheel_of_power.jpg" width="480px" height="375px"/>
